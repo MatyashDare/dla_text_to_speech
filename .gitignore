@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+LJSpeech-1.1/*
+data/LJSpeech-1.1/*
+wandb/*
+waveglow*
+*.pyc
