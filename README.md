@@ -2,10 +2,6 @@
 ## Text To Speech
 ### hw3
 
-| model  | Duration loss| Melspec loss| total loss |
-| ------ | ------- | ---- | --- |
-|FastSpeech + FS alignments| 0.01 | 0.28 | 0.3|
-
 
 Download dataset, waveglow, alignments
 ```
